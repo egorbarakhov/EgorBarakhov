@@ -35,8 +35,8 @@
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EgorBarakhov&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&card_width=800)
-![GitHub Streak](https://streak-stats.demolab.com?user=EgorBarakhov&theme=tokyonight&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat&card_width=800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EgorBarakhov&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&card_width=700)<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=EgorBarakhov&theme=tokyonight&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat&card_width=700)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EgorBarakhov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&title=MultiLanguage,Experience,Commits,Repositories,Issues,PullRequest)
