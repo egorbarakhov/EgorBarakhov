@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 Сurrently working in avito.ru as Tech Lead of Portfolio Tool team
+- 🔭 Сurrently working as Engineering Manager
 - 📲 Creating pet project Telekeeper in my spare time
 - 📖 Developing stakeholdership, product and project management skills
 - 🎨 Interested in urban architecture and music
